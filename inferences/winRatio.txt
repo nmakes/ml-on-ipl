@@ -1,0 +1,13 @@
+Pune Warriors: 0.260869565217
+Deccan Chargers: 0.386666666667
+Delhi Daredevils: 0.421768707483
+Kochi Tuskers Kerala: 0.428571428571
+Gujarat Lions: 0.433333333333
+Kings XI Punjab: 0.472972972973
+Royal Challengers Bangalore: 0.480263157895
+Rising Pune Supergiant: 0.5
+Kolkata Knight Riders: 0.52027027027
+Rajasthan Royals: 0.533898305085
+Sunrisers Hyderabad: 0.552631578947
+Mumbai Indians: 0.585987261146
+Chennai Super Kings: 0.603053435115

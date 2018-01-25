@@ -1,0 +1,7 @@
+URL: https://www.kaggle.com/manasgarg/ipl/data
+
+Files
+
+1. deliveries.csv: Ball by ball details for all matches for all seasons.
+
+2. matches.csv: IPL match details across all seasons. The result column can be normal, draw, no-result or tie. If it was a tie, there would also be a super over. normal means that it was a regular match where the team that scored more, won the match.
